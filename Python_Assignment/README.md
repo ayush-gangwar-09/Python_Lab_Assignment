@@ -135,7 +135,6 @@ This assignment contains Python programming questions covering basic, intermedia
 ## 4. Folder Structure
 ```
 Python_Assignment/
-├── README.md
 ├── 01_variables_and_data_types/
 ├── 02_conditional_statements/
 ├── 03_functions/
